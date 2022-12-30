@@ -23,7 +23,7 @@ physical source lines of code (SLOC) in potentially large software systems
 SLOCCount can count physical SLOC for a wide number of languages;
 listed alphabetically, they are: Ada, Assembly, awk, Bourne shell, C, C++,
 C shell, COBOL, Expect, Fortran, Java, lex/flex, LISP (including Scheme),
-Modula-3, Objective-C, Pascal, Perl, PHP, Python, sed, TCL, and Yacc.
+Modula-3, Objective-C, Pascal, Perl, PHP, Python, Rust, sed, TCL, and Yacc.
 SLOCCount can automatically determine if a file
 is a source code file or not, and if so, which language it's written in.
 As a result, you can analyze large systems completely automatically;
