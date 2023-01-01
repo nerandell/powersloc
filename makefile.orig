@@ -117,6 +117,7 @@ EXECUTABLES= \
    print_sum \
    python_count \
    ruby_count \
+   rust_count \
    sed_count \
    sh_count \
    show_filecount \
