@@ -1,6 +1,9 @@
 SLOCCount README
 =================
 
+**The goal of this repository is to make [https://sourceforge.net/projects/sloccount/](sloccount) 
+simpler, cleaner, faster, and more up to date.**
+
 This directory contains "SLOCCount", a set of the programs for counting
 source lines of code (SLOC) in large software systems.
 It was developed by David A. Wheeler (dwheeler@dwheeler.com),
